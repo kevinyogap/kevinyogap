@@ -9,15 +9,11 @@ I'm a **Digital Business student** at Politeknik Negeri Banyuwangi with a strong
 
 ## 💡 Fun Fact  
 😴 I love sleeping! On holidays, I usually sleep for **12 hours or more**.  
-🌟 Every time I sleep, I dream about becoming a better version of myself-But I always choose to **wake up and make those dreams a reality**.  
 🌟 Every time I sleep, I dream about becoming a better version of myself.  
 But I always choose to **wake up and make those dreams a reality**.
-
-
-
+<br>
 
 Let's connect and turn ideas into impact! 🚀  
-
 
 
 
