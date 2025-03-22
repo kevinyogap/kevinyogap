@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Kevin Yoga Pratama! 👋  
 
-<!--
-**kevinyogap/kevinyogap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me**  
+I'm a D4 Digital Business student at Politeknik Negeri Banyuwangi with a strong interest in **Machine Learning, Deep Learning, Data Analysis, and Python Programming**. Passionate about solving problems with data and automation!  
 
-Here are some ideas to get you started:
+🌱 **Currently Learning**  
+- Machine Learning & Deep Learning  
+- Data Analysis with Python  
+- Advanced Python Programming  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Tech Stack & Skills**  
+- **Languages**: Python, JavaScript, SQL  
+- **Frameworks & Libraries**: TensorFlow, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn  
+- **Tools**: Git, Jupyter Notebook, Docker, Power BI, Tableau 
+
+📊 **GitHub Stats**  
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinyogapratama&show_icons=true&theme=radical)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kevinyogapratama&theme=radical)](https://git.io/streak-stats)  
+
+🔗 **Connect with Me**  
+- [LinkedIn](https://www.linkedin.com/in/kevinyogapratama)  
+
+
+💡 **Fun Fact**  
+- I love sleeping! On holidays, I usually sleep for **12 hours or more**. 😴  
+- Every time I sleep, I dream about becoming a better version of myself. But I always choose to wake up and make those dreams a reality. 🚀  
+
+
+> "The best way to predict the future is to invent it." – Alan Kay  
+
+![Banner](https://user-images.githubusercontent.com/yourusername/banner-image.gif)  
