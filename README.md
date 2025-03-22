@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://github.com/kevinyogap/kevinyogap/blob/main/banner/coding.gif" alt="Banner GIF">
+</p>
 
-![Banner](https://github.com/kevinyogap/kevinyogap/blob/main/banner/coding.gif)
 
 # Hi there! I'm Kevin Yoga Pratama 👋  
 
