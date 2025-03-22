@@ -24,3 +24,7 @@ I'm a **Digital Business student** at Politeknik Negeri Banyuwangi with a strong
 <p align="center">
   <img src="https://github.com/kevinyogap/kevinyogap/blob/main/banner/coding.gif" alt="Banner GIF">
 </p>
+
+<p align="center">
+  <strong>Let's connect and turn ideas into impact! 🚀</strong>
+</p>
