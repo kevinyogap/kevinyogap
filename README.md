@@ -1,20 +1,17 @@
-# 💫 About Me:
-Hi there, I'm Kevin Yoga Pratama! 👋  <br><br>  
-I'm a **Digital Business student** at **Politeknik Negeri Banyuwangi** with a strong interest in **Machine Learning, Deep Learning, Data Analysis, and Python Programming**. Passionate about solving problems with data and automation!  
+# Hi there! I'm Kevin Yoga Pratama 👋  
 
-<br>  
+I'm a **Digital Business student** at **Politeknik Negeri Banyuwangi**, deeply passionate about **Machine Learning, Deep Learning, Data Analysis, and Python Programming**. I thrive on solving problems through data and automation!  
 
 ## 🚀 Currently Learning  
-- Machine Learning & Deep Learning  <br>  
-- Data Analysis with Python  <br>  
+- Machine Learning & Deep Learning  
+- Data Analysis with Python  
 - Advanced Python Programming  
 
-<br>  
-
 ## 💡 Fun Fact  
-- I **love sleeping**! On holidays, I usually sleep for **12 hours or more**. 😴  <br>  
-- Every time I sleep, I dream about becoming a **better version of myself**. But I always choose to **wake up and make those dreams a reality**. 🚀  
+😴 I **love sleeping**—especially on holidays, where I can sleep for **12 hours or more**!  
+🌟 Every time I sleep, I dream of becoming a **better version of myself**—but I always **wake up to make those dreams a reality**.  
 
+Let's connect and turn ideas into impact! 🚀  
 
 
 ## 🌐 Socials:
