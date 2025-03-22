@@ -1,7 +1,7 @@
 # Hi there, I'm Kevin Yoga Pratama! 👋  
 
 🚀 **About Me**  
-I'm a D4 Digital Business student at Politeknik Negeri Banyuwangi with a strong interest in **Machine Learning, Deep Learning, Data Analysis, and Python Programming**. Passionate about solving problems with data and automation!  
+I'm a Digital Business student at Politeknik Negeri Banyuwangi with a strong interest in **Machine Learning, Deep Learning, Data Analysis, and Python Programming**. Passionate about solving problems with data and automation!  
 
 🌱 **Currently Learning**  
 - Machine Learning & Deep Learning  
