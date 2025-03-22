@@ -2,10 +2,14 @@
 
 I'm a **Digital Business student** at Politeknik Negeri Banyuwangi with a strong interest in **Machine Learning, Deep Learning, Data Analysis, and Python Programming**. Passionate about solving problems with data and automation!
 
+<br>
+
 ## 🚀 Currently Learning  
 - Machine Learning & Deep Learning  
 - Data Analysis with Python  
 - Advanced Python Programming  
+
+<br>
 
 ## 💡 Fun Fact  
 😴 I love sleeping! On holidays, I usually sleep for **12 hours or more**.  
