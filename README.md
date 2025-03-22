@@ -11,11 +11,12 @@ I'm a **Digital Business student** at Politeknik Negeri Banyuwangi with a strong
 😴 I love sleeping! On holidays, I usually sleep for **12 hours or more**.  
 🌟 Every time I sleep, I dream about becoming a better version of myself.  
 But I always choose to **wake up and make those dreams a reality**.
+
 <br>
 
 Let's connect and turn ideas into impact! 🚀  
 
-
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinyogapratama) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevinyogapratama.str.bns@gmail.com) 
