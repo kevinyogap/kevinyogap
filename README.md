@@ -1,8 +1,8 @@
-# Hi there! I'm Kevin Yoga Pratama 👋  
-
-<div align="center">
+<p align="center">
   <img src="https://github.com/kevinyogap/kevinyogap/blob/main/banner/coding.gif" alt="Banner GIF">
-</div>
+</p>
+
+# Hi there! I'm Kevin Yoga Pratama 👋  
 
 I'm a **Digital Business student** at Politeknik Negeri Banyuwangi with a strong interest in **Machine Learning, Deep Learning, Data Analysis, and Python Programming**. Passionate about solving problems with data and automation!
 
